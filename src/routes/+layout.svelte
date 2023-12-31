@@ -1,4 +1,5 @@
 <script>
+  export const prerender = true;
   import "../app.css";
   import Header from "../components/Header.svelte";
   import Footer from "../components/Footer.svelte";
@@ -12,7 +13,6 @@
   }
 </script>
 
-export const prerender = true;
 <div
   class="container relative flex flex-col max-w-[1400px] mx-auto v-full text-sm
   sm:text-base min-h-screen"
