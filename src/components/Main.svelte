@@ -79,13 +79,13 @@
         <p>
           <strong class="text-waikawa-400">HTML and JavaScript</strong>
           team project making a pokemon data search. grabs pokemon data from an API
-          and displays it for the user
+          and displays it for the user.
         </p></Step
       >
       <Step step={step[2]}>
         <p>
           <strong class="text-waikawa-400">C#</strong> With the OpenAI api made a
-          discord text bot to encode the users writing in other ways
+          discord text bot to encode the users writing in other ways.
         </p></Step
       >
     </div>
