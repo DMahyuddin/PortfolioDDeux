@@ -25,7 +25,7 @@
       >
     </p>
     <p>
-      <b pr-2>Github </b><a
+      <b pr-2>GitHub </b><a
         class="text-waikawa-400"
         target="_blank"
         href="https://github.com/DMahyuddin"
